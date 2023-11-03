@@ -1,3 +1,7 @@
+There are now two setups one for BSD, and one for using RHEL..
+
+Because RHEL / Fedora are the way
+
 # plex-cert-acme-aws
 [Plex](https://www.plex.tv/) Media Server SSL Certificate Generation Using [achme.sh](https://github.com/Neilpang/acme.sh) and [AWS](https://aws.amazon.com/) [Route 53](https://aws.amazon.com/route53/) DNS service to generate a [Lets Encrypt](https://letsencrypt.org/) SSL certificate for your home [Plex](https://www.plex.tv/) media Server.  You won't need to open any of your plex server ports to the internet as we will use DNS validation.
 
